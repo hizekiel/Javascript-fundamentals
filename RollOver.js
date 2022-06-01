@@ -1,14 +1,17 @@
 function rollOver() {
     for (i = 10; i > 0; i--) {
-        for (j = 1; j < 10; j++) {
 
-            console.log(i + 'in the bed,and ' + j);
+        let j = i;
+        if (i <= 10 && i > 1)
+            console.log(i + 'in the bed, the little one said rollover ' + j + " " + "fell off");
+        else {
+            console.log(i + "in the bed, the little on said I am lonely!");
         }
-
-
     }
 
-    console.log('no one left');
-    return
+    console.log('The little one said, Everybody back on the bed!');
 }
+
+
+
 rollOver();
