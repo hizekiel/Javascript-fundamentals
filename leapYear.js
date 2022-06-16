@@ -7,7 +7,7 @@ function leapYear(year) {
         if (year % 100 === 0) { // then checks if it is divisible by 100
             if (year % 400 === 0) { // third it checks it if it is dvisible by 400
 
-                return true
+                return true;
             }
         }
 

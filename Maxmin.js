@@ -35,4 +35,4 @@ function minmax(a, b, c) {
     largest(a, b, c);
 
 }
-minmax(3, 4, 6);
+minmax(5, 4, 6);

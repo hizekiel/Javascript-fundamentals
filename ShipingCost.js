@@ -17,4 +17,4 @@ function calshipingCost(cost, location) {
     }
 
 }
-calshipingCost(30, 'US');
+calshipingCost(40, 'US');

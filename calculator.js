@@ -1,21 +1,21 @@
 function calculator(typeOfCalcultion, a, b) {
     switch (typeOfCalcultion) {
         case 'Multiplication':
-            Answer = a * b;
+            answer = a * b;
             break;
         case 'Division':
-            Answer = a / b;
+            answer = a / b;
             break;
         case 'Addition':
-            Answer = a + b;
+            answer = a + b;
             break;
         case 'Subtraction':
-            Answer = a - b;
+            answer = a - b;
             break;
         default:
             console.log(error);
     }
-    return Answer;
+    return answer;
 }
 
 solution = calculator('Multiplication', 3, 6);

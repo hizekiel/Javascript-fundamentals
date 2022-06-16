@@ -18,7 +18,7 @@ function areaOfShapes(Tshapes) {
 
 
     } else {
-        return 'shape doesnt exist';
+        return "shape doesn't exist'";
     }
 }
 

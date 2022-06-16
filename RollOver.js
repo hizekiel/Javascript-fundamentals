@@ -9,7 +9,7 @@ function rollOver() {
         }
     }
 
-    console.log('The little one said, Everybody back on the bed!');
+    console.log('The little one Said, Everybody back on the bed!');
 }
 
 

@@ -1,6 +1,6 @@
 function Area(base, height) {
-    AreaofT = 0.5 * base * height;
-    return AreaofT;
+    return 0.5 * base * height;
+
 
 }
 AreaOfATriangle = Area(3, 4);

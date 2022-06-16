@@ -11,6 +11,6 @@
 
  }
 
- discountedAmount = discCalulate(30, 50);
+ let discountedAmount = discCalulate(30, 50);
  console.log('tThe new price is' + "" +
      discountedAmount);

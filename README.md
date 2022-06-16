@@ -1,2 +1,2 @@
 # Javascript-fundamentals
-basics javascript programing 
+basics of  javascript programing 

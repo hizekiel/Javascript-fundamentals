@@ -40,7 +40,6 @@ function instock(element) {
         }
 
     }
-    return;
 }
 
 console.log(instock(product));

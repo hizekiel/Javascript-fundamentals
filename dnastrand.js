@@ -18,5 +18,5 @@ function dnastrand(element) {
     }
     return newdna;
 }
-dnastrand(['G', 'A', 'T', 'C']);
-console.log(dnastrand());
+const strand = dnastrand(dna);
+console.log(strand);
