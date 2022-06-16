@@ -84,4 +84,4 @@ function doesntexist(element, name) {
 
 
 
-console.log(doesntexist(product, 'spoon'));
+console.log(doesntexist(product, 'Table'));
